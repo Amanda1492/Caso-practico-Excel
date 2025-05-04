@@ -1,7 +1,7 @@
 # Caso practico Excel
 
 # Contexto
-Este conjunto de datos contiene información sobre 3 Ubicacones de la empresa CityBlend del semestre de enero a junio del 2023
+Este conjunto de datos contiene información sobre 3 ubicacines de la empresa CityBlend del semestre de enero a junio del 2023
 
 # Análisis final
 -El mes de mayores ventas total ubicaciones fue junio 2023
